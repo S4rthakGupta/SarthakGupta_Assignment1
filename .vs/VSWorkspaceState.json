@@ -1,18 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\PriceQuotationApp",
     "\\PriceQuotationApp\\PriceQuotationApp",
-    "\\PriceQuotationApp\\PriceQuotationApp\\Controllers",
-    "\\TipCalculatorApp",
-    "\\TipCalculatorApp\\TipCalculatorApp",
-    "\\TipCalculatorApp\\TipCalculatorApp\\bin",
-    "\\TipCalculatorApp\\TipCalculatorApp\\bin\\Debug",
-    "\\TipCalculatorApp\\TipCalculatorApp\\bin\\Debug\\netcoreapp3.1",
-    "\\TipCalculatorApp\\TipCalculatorApp\\Models",
-    "\\TipCalculatorApp\\TipCalculatorApp\\Views",
-    "\\TipCalculatorApp\\TipCalculatorApp\\Views\\Shared"
+    "\\PriceQuotationApp\\PriceQuotationApp\\Views",
+    "\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation"
   ],
-  "SelectedNode": "\\PriceQuotationApp\\PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
   "PreviewInSolutionExplorer": false
 }

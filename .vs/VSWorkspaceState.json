@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PriceQuotationApp",
+    "\\PriceQuotationApp\\PriceQuotationApp",
+    "\\PriceQuotationApp\\PriceQuotationApp\\Views",
+    "\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation",
+    "\\TipCalculatorApp",
+    "\\TipCalculatorApp\\TipCalculatorApp",
+    "\\TipCalculatorApp\\TipCalculatorApp\\Views",
+    "\\TipCalculatorApp\\TipCalculatorApp\\Views\\Shared"
+  ],
+  "SelectedNode": "\\TipCalculatorApp\\TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}

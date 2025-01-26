@@ -1,0 +1,41 @@
+﻿@model TipCalculatorApp.Models.TipCalculator
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-dark text-white text-center">
+            <h1 class="font-weight-bold text-uppercase" style="color: white;">Tip Calculator</h1>
+        </div>
+        <div class="card-body bg-light">
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger">
+                    <ul class="mb-0">
+                        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                        {
+                            <li>@error.ErrorMessage</li>
+                        }
+                    </ul>
+                </div>
+            }
+
+            <form method="post">
+                <div class="form-group mb-4">
+                    <label for="MealCost" class="font-weight-bold" style="color: #001f54;">Cost of Meal:</label>
+                    <input type="number" step="0.01" id="MealCost" name="MealCost"
+                           value="@Model.MealCost" class="form-control border-dark shadow-sm" required />
+                </div>
+
+                <div class="bg-white p-4 rounded shadow-sm mb-4">
+                    <p class="font-weight-bold text-secondary">15% Tip: <span style="color: #001f54;">@Model.Tip15.ToString("C")</span></p>
+                    <p class="font-weight-bold text-secondary">20% Tip: <span style="color: #001f54;">@Model.Tip20.ToString("C")</span></p>
+                    <p class="font-weight-bold text-secondary">25% Tip: <span style="color: #001f54;">@Model.Tip25.ToString("C")</span></p>
+                </div>
+
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn btn-dark mx-2 px-4 py-2 font-weight-bold" style="background-color: #001f54;">Calculate</button>
+                    <a asp-action="Clear" class="btn btn-outline-dark mx-2 px-4 py-2 font-weight-bold">Clear</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

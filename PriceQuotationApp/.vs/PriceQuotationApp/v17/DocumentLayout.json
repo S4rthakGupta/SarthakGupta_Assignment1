@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\controllers\\pricequotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\controllers\\pricequotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\models\\pricequotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\models\\pricequotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\pricequotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\pricequotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\models\\pricequotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\models\\pricequotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\views\\pricequotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\views\\pricequotation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|c:\\users\\dell\\source\\repos\\sarthakgupta_assignment1\\pricequotationapp\\pricequotationapp\\pricequotationapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{41E4291A-2ADD-4DDD-A30A-1919D3271C75}|PriceQuotationApp\\PriceQuotationApp.csproj|solutionrelative:pricequotationapp\\pricequotationapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,131 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PriceQuotationController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
-              "RelativeToolTip": "PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T22:07:33.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "PriceQuotationApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T22:07:22.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Program.cs",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Program.cs",
-              "RelativeToolTip": "PriceQuotationApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T22:07:05.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T22:06:57.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T21:53:00.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
+              "RelativeToolTip": "PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T21:52:49.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T21:52:28.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-26T21:52:28.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Startup.cs",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Startup.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Startup.cs",
-              "RelativeToolTip": "PriceQuotationApp\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:16:15.082Z",
+              "WhenOpened": "2025-01-26T22:24:20.047Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -201,59 +50,43 @@
               "RelativeDocumentMoniker": "PriceQuotationApp\\Models\\PriceQuotation.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Models\\PriceQuotation.cs",
               "RelativeToolTip": "PriceQuotationApp\\Models\\PriceQuotation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:09:46.559Z",
+              "WhenOpened": "2025-01-26T22:27:49.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\PriceQuotation\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T07:13:34.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PriceQuotationApp\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PriceQuotationApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PriceQuotationApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T07:14:49.922Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:27:48.676Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PriceQuotationApp",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\PriceQuotationApp.csproj",
-              "RelativeDocumentMoniker": "PriceQuotationApp\\PriceQuotationApp.csproj",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\PriceQuotationApp.csproj",
-              "RelativeToolTip": "PriceQuotationApp\\PriceQuotationApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T21:53:40.642Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PriceQuotationApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\SarthakGupta_Assignment1\\PriceQuotationApp\\PriceQuotationApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PriceQuotationApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T07:05:14.385Z",
+              "WhenOpened": "2025-01-26T22:24:19.29Z",
               "EditorCaption": ""
             }
           ]

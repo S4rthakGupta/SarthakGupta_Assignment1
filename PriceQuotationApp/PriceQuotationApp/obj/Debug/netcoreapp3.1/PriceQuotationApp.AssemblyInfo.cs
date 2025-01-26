@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PriceQuotationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e08fd9ed52b4a6a74e3a24d1a5b1262b774f876")]
 [assembly: System.Reflection.AssemblyProductAttribute("PriceQuotationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PriceQuotationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

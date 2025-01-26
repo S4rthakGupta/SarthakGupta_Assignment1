@@ -3,13 +3,16 @@
     "",
     "\\PriceQuotationApp",
     "\\PriceQuotationApp\\PriceQuotationApp",
-    "\\PriceQuotationApp\\PriceQuotationApp\\Views",
-    "\\PriceQuotationApp\\PriceQuotationApp\\Views\\PriceQuotation",
+    "\\PriceQuotationApp\\PriceQuotationApp\\Controllers",
     "\\TipCalculatorApp",
     "\\TipCalculatorApp\\TipCalculatorApp",
+    "\\TipCalculatorApp\\TipCalculatorApp\\bin",
+    "\\TipCalculatorApp\\TipCalculatorApp\\bin\\Debug",
+    "\\TipCalculatorApp\\TipCalculatorApp\\bin\\Debug\\netcoreapp3.1",
+    "\\TipCalculatorApp\\TipCalculatorApp\\Models",
     "\\TipCalculatorApp\\TipCalculatorApp\\Views",
     "\\TipCalculatorApp\\TipCalculatorApp\\Views\\Shared"
   ],
-  "SelectedNode": "\\TipCalculatorApp\\TipCalculatorApp\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\PriceQuotationApp\\PriceQuotationApp\\Controllers\\PriceQuotationController.cs",
   "PreviewInSolutionExplorer": false
 }

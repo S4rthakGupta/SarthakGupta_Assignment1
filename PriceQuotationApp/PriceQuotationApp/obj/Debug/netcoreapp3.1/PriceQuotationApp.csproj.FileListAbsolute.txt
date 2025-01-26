@@ -56,6 +56,7 @@ C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuota
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.RazorAssemblyInfo.cache
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.sourcelink.json
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.TagHelpers.input.cache
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.TagHelpers.output.cache
 C:\Users\Dell\source\repos\SarthakGupta_Assignment1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.RazorCoreGenerate.cache
